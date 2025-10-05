@@ -1,0 +1,25 @@
+---
+.title = "Events – 2024",
+.date = @date("2024-01-01T00:00:00"),
+.author = "Robbie Lyman",
+.layout = "events.shtml",
+.draft = false,
+---
+[]($section.id('about'))
+
+You can [subscribe to the latest events via RSS]($link.page('events').alternative('rss')).
+
+## [Meetup #2]($section.id('2024-12'))
+
+Location: [Pier 57](https://pier57nyc.com)    
+Presentation: [Robbie Lyman](https://robbielyman.com) on Seamstress.    
+
+## [Meetup #1]($section.id('2024-10'))
+
+Location: [Pier 57](https://pier57nyc.com)    
+Presentations: 
+  - [Mike Belousov](https://mikemikeb.com) on [Graphl](https://graphl.tech/graphl). [Video](https://www.youtube.com/watch?v=KS8iix_qhSY)
+  - [Jan Burgy](http://bur.gy/) on [Zorth](https://github.com/zig-wasm/zorth). [Video](https://www.youtube.com/watch?v=Bar4IFc1NpM)
+  - [Brandon Botsch](https://github.com/pwnfooj716) on Zynth. [Video](https://www.youtube.com/watch?v=RV79-quYh2U)
+
+[]($image.asset('oct2024-group-photo.jpg').size(480,0))

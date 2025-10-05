@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head id="head">
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1">
+    <title :text="$site.title"></title>
+    <link type="text/css" rel="stylesheet" href="$site.asset('style.css').link()">
+    <link type="text/css" rel="stylesheet" href="$site.asset('highlight.css').link()">
+    <!-- mathtex --
+    <link type="text/css" rel="stylesheet" href="$site.asset('Temml-Local.css').link()">
+    <script defer src="$site.asset('temml.min.js').link()"></script>
+    <script defer src="$site.asset('render-mathtex.js').link()"></script>
+    !-- /mathtex -->
+    <super>
+  </head>
+  <body id="body">
+    <h1 class="site-title" :text="$site.title"></h1>
+    <nav>
+      <a href="$site.page('').link()">About</a>
+      <ctx :if="$site.page('events').subpages().first?()">
+         &nbsp; • &nbsp;
+        <a href="$if.link()">Events</a>
+      </ctx>
+    </nav>
+    <super>
+    <footer>
+      <img src="$site.asset('ziggy.svg').link()" width=90>
+    </footer>
+  </body>
+</html>

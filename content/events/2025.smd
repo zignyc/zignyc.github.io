@@ -1,0 +1,62 @@
+---
+.title = "Events – 2025",
+.date = @date("2025-01-01T00:00:00"),
+.author = "Robbie Lyman",
+.layout = "events.shtml",
+.draft = false,
+---
+
+[]($section.id('about'))
+## Events
+
+This list of events will maintain records about the meetup's events.
+I'd love to collect photos! Please reach out [via email](mailto:me@robbielyman.com).
+You can [subscribe to this page via RSS]($link.page('events').alternative('rss')).
+
+This page lists entries for the current year; for past entries consult the [events archive](/events/).
+
+## [Next: Meetup #8]($section.id('2025-10-14'))
+
+Location: [Pier 57](https://pier57nyc.com)     
+Time: 6pm    
+Presentation: TBA    
+[Luma link](https://luma.com/yhnbqxry)
+
+## [Zig Day #1]($section.id('2025-09-27'))
+
+Location: [The Recurse Center](https://recurse.com/)    
+Time: 10am    
+[Luma link](https://luma.com/4m3d331d)
+
+## [Meetup #7]($section.id('2025-09-16'))
+
+Location: [Gumbo NYC](https://gumbonyc.org/)    
+Time: 7pm    
+Presentation: [Joachim Pfefferkorn](https://joachim.work/) on [Neurovolume](https://github.com/joachimbbp/neurovolume).    
+[Luma link](https://luma.com/un8ual6a)
+
+## [Meetup #6]($section.id('2025-08-05'))
+
+Location: [Pierf 57](https://pier57nyc.com/)    
+Time: 5:30pm    
+Presentation: [Robbie Lyman](https://robbielyman.com) on getting started with Zig!    
+[Luma link](https://luma.com/1l9p6kte)
+
+## [Meetup #5]($section.id('2025-07-15'))
+
+Location: [Pier 57](https://pier57nyc.com/)    
+Time: 5:30pm    
+Presemtation: [Peyman Mortazavi](https://peymanmo.com/) on a future alternative to Protobuf.    
+[Luma link](https://luma.com/wf65616a)
+
+## [Meetup #4]($section.id('2025-05-20'))
+
+Location: [Pier 57](https://pier57nyc.com/)    
+Time: 5:30pm    
+Presentation: [Mike Belousov](https://mikemikeb.com) on [Graphl](https://graphl.tech/graphl).    
+
+## [Meetup #3]($section.id('2025-02-11'))
+
+Location: [Pier 57](https://pier57nyc.com/)    
+Time: 5:30pm    
+Presentation: [Don Isaac](https://x.com/Don_dev_) on [Zlint](https://github.com/DonIsaac/zlint).    

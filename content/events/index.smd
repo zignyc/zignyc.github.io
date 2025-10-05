@@ -1,0 +1,13 @@
+---
+.title = "Events Archive",
+.date = @date("2025-01-01T00:00:00"),
+.author = "Robbie Lyman",
+.layout = "events-archive.shtml",
+.alternatives = [{
+  .name = "rss",
+  .layout = "events.xml",
+  .output = "index.xml",
+}],
+.draft = false,
+---
+The latest year of events is also available [via RSS feed]($link.alternative('rss')).

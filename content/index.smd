@@ -1,0 +1,16 @@
+---
+.title = "About",
+.date = @date("2025-10-05T14:00:00-04:00"),
+.author = "Robbie Lyman",
+.layout = "index.shtml",
+.draft = false,
+--- 
+
+This is a page for meetups and events in New York City
+focused on the [Zig](https://ziglang.org) programming language.
+
+We maintain a calendar of meetup events on [Luma](https://luma.com/calendar/cal-kG6xrNfIrxXQIZK)
+and [Zig Day](https://kristoff.it/blog/zig-day/) events on [zig.day](https://zig.day/usa/new-york/).
+
+The first meetups were organized by [Mike Belousov](https://mikemikeb.com/);
+currently [Robbie Lyman](https://robbielyman.com) is organizing.
