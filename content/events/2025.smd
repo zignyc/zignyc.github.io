@@ -15,11 +15,18 @@ You can [subscribe to this page via RSS]($link.page('events').alternative('rss')
 
 This page lists entries for the current year; for past entries consult the [events archive](/events/).
 
-## [Next: Meetup #8]($section.id('2025-10-14'))
+## [Next: Meetup #9]($section.id('2025-11-04'))
+
+Location: [Pier 57](https://pier57nyc.com)    
+Time: 6pm    
+Presentation: [Jared Ramirez](https://github.com/jaredramirez) on the [Roc](https://www.roc-lang.org/) type checker!    
+[Luma link](https://luma.com/kxfckl5d?tk=HvNGqf)
+
+## [Meetup #8](#section.id('2025-10-14'))
 
 Location: [Pier 57](https://pier57nyc.com)     
 Time: 6pm    
-Presentation: TBA    
+Presentation: [Robbie Lyman](https://robbielyman.com) on Zig + Objective-C interop    
 [Luma link](https://luma.com/yhnbqxry)
 
 ## [Zig Day #1]($section.id('2025-09-27'))
